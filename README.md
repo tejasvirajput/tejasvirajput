@@ -73,17 +73,8 @@
 ## 📊 Statistics
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tejasvirajput&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tejasvirajput&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tejasvirajput&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tejasvirajput&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tejasvirajput&theme=tokyonight&utcOffset=5.5" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=tejasvirajput&show_icons=true&include_all_commits=true&count_private=false&hide_border=true&theme=tokyonight" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tejasvirajput&layout=compact&langs_count=8&hide_border=true&theme=tokyonight" />
 </p>
 
 ---

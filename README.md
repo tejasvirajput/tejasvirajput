@@ -14,12 +14,7 @@
 - ⚡ Fun fact: **I debug with patience and celebrate with chai ☕**
 - 📫 Reach me at **[tejasvirajput123@gmail.com](mailto:tejasvirajput123@gmail.com)**
 
-</td>
-<td width="40%" align="center">
-<img width="320" src="<img width="800" height="600" alt="image" src="https://github.com/user-attachments/assets/7c8c2b7d-75d0-4ae0-a499-95decfcdb9a4" /> alt="coding illustration"/>
-</td>
-</tr>
-</table>
+</td> <td width="40%" align="center"> <img width="320" src=[https://raw.githubusercontent.com/gist/vodkabears/9e42548e6ee422f4738d1e50757cf46f/raw/programmer.gif](https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif) alt="coding illustration"/> </td> </tr> </table>
 
 ---
 

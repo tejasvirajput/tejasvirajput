@@ -1,37 +1,283 @@
-<h1 align="center">Hi 👋, I'm Tejasvi Rajput</h1>
-<h3 align="center">A passionate Full-Stack Developer from India</h3>
+<!-- ======================= HEADER ======================= -->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tejasvirajput&label=Profile%20views&color=0e75b6&style=flat" alt="tejasvirajput" /> </p>
+<h1 align="center">
+  Hi 👋, I'm Tejasvi Rajput
+</h1>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tejasvirajput" alt="tejasvirajput" /></a> </p>
+<h3 align="center">
+  🚀 Full-Stack Developer | MERN Stack | Java | DSA | AI Integration
+</h3>
 
-- 🔭 I’m currently working on [Wanderlust](https://github.com/tejasvirajput/Wanderlust)
-
-- 🌱 I’m currently learning **Advanced JavaScript, MERN Stack, AI Integration, and Data Structures & Algorithms**
-
-- 👯 I’m looking to collaborate on [NovaChat-video-calls-app](https://github.com/tejasvirajput/NovaChat-video-calls-app)
-
-- 🤝 I’m looking for help with [Simon-Says-Game](https://github.com/tejasvirajput/Simon-Says)
-
-- 👨‍💻 All of my projects are available at [https://github.com/tejasvirajput](https://github.com/tejasvirajput)
-
-- 💬 Ask me about **Java, JavaScript, MERN Stack, REST APIs, MongoDB, AI Integration, and DSA**
-
-- 📫 How to reach me **tejasvirajput123@gmail.com**
-
-- ⚡ Fun fact **I debug with patience and celebrate with chai ☕**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/tejasvirajput" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tejasvirajput" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/tejasvi_rajput" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="tejasvi_rajput" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://github.com/tejasvirajput">
+    <img src="https://komarev.com/ghpvc/?username=tejasvirajput&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  </a>
+  <a href="https://github.com/tejasvirajput?tab=followers">
+    <img src="https://img.shields.io/github/followers/tejasvirajput?label=Followers&style=flat&color=0e75b6" alt="GitHub Followers" />
+  </a>
+  <a href="https://github.com/tejasvirajput">
+    <img src="https://img.shields.io/github/stars/tejasvirajput?label=Stars&style=flat&color=yellow" alt="GitHub Stars" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="https://github.com/tejasvirajput">
+    <img src="https://img.shields.io/github/last-commit/tejasvirajput/tejasvirajput?style=flat&label=Last%20Profile%20Update" alt="Last Update" />
+  </a>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tejasvirajput&show_icons=true&locale=en&layout=compact" alt="tejasvirajput" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tejasvirajput&show_icons=true&locale=en" alt="tejasvirajput" /></p>
+<!-- ======================= ABOUT ======================= -->
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tejasvirajput&" alt="tejasvirajput" /></p>
+## 👨‍💻 About Me
+
+I'm a passionate **Full-Stack Developer from India** who enjoys building modern, scalable and user-focused web applications.
+
+- 🔭 Currently working on **[Wanderlust](https://github.com/tejasvirajput/Wanderlust)**
+- 🌱 Currently learning **Advanced JavaScript, MERN Stack, AI Integration & DSA**
+- 💻 Building projects with **React, Node.js, Express & MongoDB**
+- 🤖 Exploring **AI-powered applications and integrations**
+- 🧠 Strengthening my problem-solving skills through **Java & DSA**
+- 👯 Open to collaborating on **[NovaChat-video-calls-app](https://github.com/tejasvirajput/NovaChat-video-calls-app)**
+- 🤝 Looking for help/contributions on **[Simon-Says](https://github.com/tejasvirajput/Simon-Says)**
+- 💬 Ask me about **Java, JavaScript, MERN, REST APIs, MongoDB, AI & DSA**
+- 📫 Reach me at **tejasvirajput123@gmail.com**
+- ⚡ Fun fact: **I debug with patience and celebrate with chai ☕**
+
+---
+
+<!-- ======================= CONNECT ======================= -->
+
+## 🌐 Connect With Me
+
+<p align="left">
+  <a href="https://linkedin.com/in/tejasvirajput" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="45" height="45" alt="LinkedIn"/>
+  </a>
+  &nbsp;
+  <a href="https://leetcode.com/tejasvi_rajput" target="_blank">
+    <img src="https://skillicons.dev/icons?i=leetcode" width="45" height="45" alt="LeetCode"/>
+  </a>
+  &nbsp;
+  <a href="mailto:tejasvirajput123@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" width="45" height="45" alt="Gmail"/>
+  </a>
+</p>
+
+---
+
+<!-- ======================= TECH STACK ======================= -->
+
+## 🛠️ Tech Stack
+
+### 💻 Languages
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,javascript,c,html,css" />
+</p>
+
+### ⚛️ Frontend
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,redux,tailwind,bootstrap" />
+</p>
+
+### ⚙️ Backend & Database
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" />
+</p>
+
+### ☁️ Tools & Platforms
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,postman,gcp,vscode" />
+</p>
+
+---
+
+<!-- ======================= FEATURED PROJECTS ======================= -->
+
+## 🚀 Featured Projects
+
+<table>
+<tr>
+
+<td width="50%">
+
+### 💬 NovaChat
+
+**Real-time chat & video calling application**
+
+- ⚡ Real-time messaging
+- 📹 Video calling
+- 🔐 Authentication
+- 👥 User management
+- 🤖 AI integration
+- 🌐 Modern MERN architecture
+
+<a href="https://github.com/tejasvirajput/NovaChat-video-calls-app">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=tejasvirajput&repo=NovaChat-video-calls-app&theme=tokyonight&hide_border=true" />
+</a>
+
+</td>
+
+<td width="50%">
+
+### 🌍 Wanderlust
+
+**Full-stack travel & accommodation platform**
+
+- 🏨 Listings
+- 🔐 Authentication
+- 📍 Location-based features
+- 📝 Reviews & ratings
+- 💾 MongoDB database
+- ⚙️ RESTful backend
+
+<a href="https://github.com/tejasvirajput/Wanderlust">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=tejasvirajput&repo=Wanderlust&theme=tokyonight&hide_border=true" />
+</a>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+### 🎮 Simon Says
+
+**Interactive memory game**
+
+- 🎯 Game logic
+- 🧠 Memory-based gameplay
+- 🎨 Responsive UI
+- ⚡ JavaScript interactions
+
+<a href="https://github.com/tejasvirajput/Simon-Says">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=tejasvirajput&repo=Simon-Says&theme=tokyonight&hide_border=true" />
+</a>
+
+</td>
+
+<td width="50%">
+
+### 💡 More Projects
+
+Explore my GitHub profile to see more experiments, learning projects, DSA solutions and full-stack applications.
+
+<p align="center">
+  <a href="https://github.com/tejasvirajput?tab=repositories">
+    <img src="https://img.shields.io/badge/View%20All%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+</td>
+
+</tr>
+</table>
+
+---
+
+<!-- ======================= GITHUB ANALYTICS ======================= -->
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <a href="https://github.com/tejasvirajput">
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=tejasvirajput&show_icons=true&include_all_commits=true&count_private=false&hide_border=true&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/tejasvirajput">
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tejasvirajput&layout=compact&langs_count=8&hide_border=true&theme=tokyonight" />
+  </a>
+</p>
+
+---
+
+<!-- ======================= CONTRIBUTION STREAK ======================= -->
+
+## 🔥 Contribution Streak
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=tejasvirajput&theme=tokyonight&hide_border=true"
+    alt="GitHub Contribution Streak"
+  />
+</p>
+
+---
+
+<!-- ======================= ACTIVITY GRAPH ======================= -->
+
+## 📈 Contribution Activity
+
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=tejasvirajput&theme=tokyo-night&hide_border=true"
+    alt="GitHub Contribution Activity Graph"
+  />
+</p>
+
+---
+
+<!-- ======================= GITHUB TROPHIES ======================= -->
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=tejasvirajput&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=2&column=4"
+    alt="GitHub Trophies"
+  />
+</p>
+
+---
+
+<!-- ======================= CONTRIBUTION GRAPH ======================= -->
+
+## 💻 Commit & Contribution Graph
+
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=tejasvirajput&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true"
+    alt="Commit Graph"
+  />
+</p>
+
+---
+
+<!-- ======================= GITHUB SUMMARY ======================= -->
+
+## 📌 GitHub Summary
+
+<p align="center">
+
+  <img src="https://img.shields.io/github/repos/tejasvirajput?style=for-the-badge&logo=github&label=Total%20Repos" alt="Total Repositories"/>
+
+  <img src="https://img.shields.io/github/followers/tejasvirajput?style=for-the-badge&logo=github&label=Followers" alt="Followers"/>
+
+  <img src="https://img.shields.io/github/stars/tejasvirajput?style=for-the-badge&logo=github&label=Stars" alt="Stars"/>
+
+</p>
+
+---
+
+<!-- ======================= LEARNING ======================= -->
+
+## 🧠 Currently Learning
+
+```text
+Java & DSA
+    ↓
+Advanced JavaScript
+    ↓
+MERN Stack
+    ↓
+REST APIs & Backend Architecture
+    ↓
+AI Integration
+    ↓
+Building Production-Ready Applications

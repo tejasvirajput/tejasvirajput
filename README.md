@@ -16,7 +16,7 @@
 
 </td>
 <td width="40%" align="center">
-<img width="320" src="https://raw.githubusercontent.com/gist/vodkabears/9e42548e6ee422f4738d1e50757cf46f/raw/programmer.gif" alt="coding illustration"/>
+<img width="320" src="[https://raw.githubusercontent.com/gist/vodkabears/9e42548e6ee422f4738d1e50757cf46f/raw/programmer.gif](https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif)" alt="coding illustration"/>
 </td>
 </tr>
 </table>
@@ -28,12 +28,6 @@
 <p align="left">
   <a href="https://linkedin.com/in/tejasvirajput" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://leetcode.com/tejasvi_rajput" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-  </a>
-  <a href="mailto:tejasvirajput123@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
@@ -99,17 +93,6 @@
 
 <p align="left">
   <img src="https://img.shields.io/github/watchers/tejasvirajput/tejasvirajput?label=Profile%20Views&style=for-the-badge&color=0e75b6" />
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=tejasvirajput&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=2&column=4"
-    alt="GitHub Trophies"
-  />
 </p>
 
 ---

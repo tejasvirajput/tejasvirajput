@@ -16,8 +16,7 @@
 
 </td>
 <td width="40%" align="center">
-<img width="320" src="<img width="800" height="600" alt="image" src="https://github.com/user-attachments/assets/7c8c2b7d-75d0-4ae0-a499-95decfcdb9a4" />
-)" alt="coding illustration"/>
+<img width="320" src="<img width="800" height="600" alt="image" src="https://github.com/user-attachments/assets/7c8c2b7d-75d0-4ae0-a499-95decfcdb9a4" /> alt="coding illustration"/>
 </td>
 </tr>
 </table>
